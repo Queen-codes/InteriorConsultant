@@ -70,7 +70,7 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background: var(--bg-color);
+  background: #181719;
 }
 
 .nav__link {
